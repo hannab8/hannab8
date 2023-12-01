@@ -3,9 +3,6 @@
 </div>
 
 
-## 🌸 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hannab8&theme=garden&border_radius=2.2&card_width=413)](https://git.io/streak-stats)
-
 
 ## Languages and Tools
 
@@ -27,6 +24,11 @@
 
 <!--
 **hannab8/hannab8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🌸 My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=hannab8&theme=garden&border_radius=2.2&card_width=413)](https://git.io/streak-stats)
+
+
 
 Here are some ideas to get you started:
 
